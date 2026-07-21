@@ -1,12 +1,12 @@
-# 👋 Oie, eu sou a Duda!
+#  Oie, eu sou a Duda!
 
-🎓 Graduanda em **Matemática Aplicada e Computacional**  
-🛠️ Formada em **Auxiliar Técnico em SOC (Security Operations Center)**  
-💡 Apaixonada por unir **Ciência de Dados, Segurança da Informação e Programação** para resolver problemas reais.
+Graduanda em **Matemática Aplicada e Computacional**  
+Formada em **Auxiliar Técnico em SOC (Security Operations Center)**  
+ Apaixonada por unir **Ciência de Dados, Segurança da Informação e Programação** para resolver problemas reais.
 
 ---
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 
 #### 🛡️ Cybersecurity & Infraestrutura
 <p left>
@@ -27,7 +27,7 @@
 
 ---
 
-### 🔍 My life beyond programming
+###  My life beyond programming
 
 * 🕵️‍♀️ **True Crime Fanatic:** Maratono séries criminais e investigativas nas horas vagas.
 * 🎙️ **Podcast Addict:** Apaixonada por podcasts de casos reais, ciência e tecnologia.

@@ -34,14 +34,6 @@
 * 🤓 **Nerd Culture:** Adoro explorar coisas nerds, curiosidades matemáticas e novidades da computação.
 * ☕ Movida a café e desafios lógicos.
 
----
-
-### 🚀 Featured Projects
-
-- 🤟 **[Reconhecedor de LIBRAS](https://github.com/dudasneves/reconhecedor-libras):** Classificador de vogais em tempo real usando Geometria Analítica (GAAL) e OpenCV.
-- 📊 **[Análise Gapminder](https://github.com/dudasneves/analise-gapminder):** Visualização e análise exploratória de dados com foco estatístico.
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lyOWs2d3Z1bnlrdnpzeHRiaG1ybm4yaThsYXZ2cThyaWZ1dnRwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QvBoVMlECe94Q/giphy.gif" width="380" alt="Detective Hacker GIF" />
